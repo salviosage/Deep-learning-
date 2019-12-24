@@ -4,6 +4,8 @@ project-face-generation/.ipynb_checkpoints
 project-face-generation/processed-celeba-
 project-face-generation/processed-celeba-small
 project-face-generation/processed-celeba-small.zip
+project-dog-breed-classifier/dogImages
+project-dog-breed-classifier/lfw
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
